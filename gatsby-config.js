@@ -19,9 +19,9 @@ More docs: https://www.netlify.com/docs/identity/
 
 module.exports = {
   siteMetadata: {
-    title: "JAMstack Hackathon Starter",
-    description: `Kick off your next, great Gatsby app.`,
-    author: `@swyx`,
+    title: "Travelerr",
+    description: `Go places, with ease`,
+    author: `@team8`,
   },
 
   plugins: [
